@@ -35,7 +35,11 @@ Data was collected by the iCompass team (http://www.icompass.tn).
 # Resources
 
 T-HSAB :         https://github.com/Hala-Mulki/T-HSAB-A-Tunisian-Hate-Speech-and-Abusive-Dataset
+
 T-SAC :         https://github.com/fbougares/TSAC
+
 L-HSAB           : https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset
+
 Tunisian-Arabizi : https://github.com/chaymafourati/TUNIZI-Sentiment-Analysis-Tunisian-Arabizi-Dataset
+
 arabic-stop-words : https://github.com/mohataher/arabic-stop-words
