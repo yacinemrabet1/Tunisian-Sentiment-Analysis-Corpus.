@@ -32,6 +32,11 @@ The dataset is composed of 1500 positive comments and 1500 negative.
 
 Data was collected by the iCompass team (http://www.icompass.tn).
 
+## Google play store reviews  GPSR
+As Customer feedback is essential to guide and inform your decision making and influence innovations and changes to your product or service,companies tends to analyse these feedbacks.
+
+GPSR data was collected from google play store for different tunisian mobile apps. 
+
 
 # Resources
 
